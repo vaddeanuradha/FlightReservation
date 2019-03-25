@@ -1,0 +1,16 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/FlightReservation/v15
+/FlightReservation/Debug/Flight.obj
+/FlightReservation/Debug/FlightDatabse.obj
+/FlightReservation/Debug/flightdatabse.obj.enc
+/FlightReservation/Debug/FlightReservation.obj
+/FlightReservation/Debug/Passenger.obj
+/FlightReservation/Debug/pch.obj
+/FlightReservation/Debug/Schedule.obj
+/FlightReservation/Debug/Seat.obj
+/FlightReservation/Debug/Ticket.obj
+/Debug
+/FlightReservation/Debug
